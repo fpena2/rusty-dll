@@ -34,3 +34,8 @@
 
 # Build directory
 build/
+
+
+# Added by cargo
+
+/target
